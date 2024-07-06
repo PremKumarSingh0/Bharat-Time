@@ -8,7 +8,8 @@ Features
 📅 Date display
 Installation
 Clone this repository:
-https://github.com/PremKumarSingh0/Bharat-Time.git
+git clone https://github.com/PremKumarSingh0/Bharat-Time.git
+
 
 Open index.html in your web browser.
 Usage
